@@ -1,0 +1,129 @@
+Questão 1: Existem quatro princípios básicos, quais são? Comente sobre cada um deles, explicando com exemplos.
+
+ 
+
+Disponibilidade:é quando um site de comércio eletrônico está disponível para os usuários 24 horas por dia, 7 dias por semana, sem interrupções ou quedas. Isso significa que os usuários podem acessar o site a qualquer momento para fazer compras ou obter informações sobre produtos sem nenhum problema.
+
+ 
+
+Integridade:é quando os dados armazenados em um sistema são precisos, confiáveis e mantidos intactos, sem nenhuma modificação ou corrupção. Isso significa que as informações armazenadas são protegidas contra alterações não autorizadas ou erros acidentais, garantindo que a qualidade dos dados seja mantida e que as informações sejam utilizáveis para tomada de decisões e outras tarefas críticas.
+
+ 
+
+Confidencialidade:é quando as informações são mantidas privadas e acessíveis apenas para pessoas autorizadas. Isso significa que as informações são protegidas contra acesso não autorizado ou divulgação para terceiros não autorizados, garantindo que as informações permaneçam confidenciais.
+
+ 
+
+Autenticidade:é a autenticação de usuário em um sistema de computador ou aplicativo. Por exemplo, quando um usuário insere suas credenciais de login (nome de usuário e senha) em um sistema, o sistema verifica se essas informações são válidas e correspondem a um usuário autorizado antes de conceder acesso ao sistema. 
+
+ 
+
+Questão 2:Bob envia a mensagem “Oi, tudo bem?” para Alice;
+
+A mensagem foi interceptada no meio do caminho;
+
+Após a interceptação, foi alterada para:
+
+“Oi tudo bem!”
+
+Qual ou quais princípios de Segurança da Informação foram violados? Explique!
+
+ 
+
+Integridade, Confidencialidade e Autenticidade
+
+integridade, por conta que a mensagem foi mexida por uma pessoa não autorizada no caminha; confidencialidade pois a mensagem foi vista por uma pessoa que não tinha autorização e foi interceptada por a mesma; autenticidade é básico foi por conta que a mensagem foi modificada e chegou ao destino com uma modificação que não foi feita pelo próprio.
+
+ 
+
+Questão 3:Bob captura a chave do email de Alice;
+
+Bob envia um email para Ted em nome de Alice;
+
+Qual ou quais princípios de Segurança da Informação foram violados? Explique!
+
+ 
+
+confidencialidade e autenticidade, pois ele conseguiu dados de Alice e invadiu seu Email e autenticidade, pois mandou mensagem sem ser uma pessoa autorizada pela Alice, e além de tudo a integridade pois se passou por ela no perfil de email dela.
+
+ 
+
+Questão 4:Crie uma situação hipotética de um caso em que ocorra a violação de três ou mais princípios de Segurança da Informação.​
+
+ 
+
+Um dia, um funcionário com acesso privilegiado a esses dados decide violar os seguintes princípios de segurança da informação:
+
+Ele copia as informações sensíveis de vários clientes em um pendrive pessoal sem autorização ou criptografia, deixando-as podendo ser acessadas por qualquer pessoa, ele altera algumas informações de contas bancárias e transações, adicionando ou retirando valores, o que pode causar prejuízos financeiros aos clientes e à empresa, ele exclui todas as cópias de backup dos dados, tornando impossível a recuperação das informações e prejudicando seriamente a capacidade da empresa de atender seus clientes.
+
+Essa violação de princípios de segurança da informação pode ter consequências graves para os clientes afetados, para o crédito da empresa e para a segurança financeira em geral. É importante que as empresas implementem medidas eficazes de segurança da informação e treinem seus funcionários para garantir a proteção dos dados com êxito.
+
+Questão 5:Se algum software malicioso derrubar o serviço da Netflix, qual foi o princípio violado? Explique!
+
+ 
+
+disponibilidade e integridade.
+
+Disponibilidade: A disponibilidade é um dos princípios fundamentais da TI que se refere à capacidade de um sistema estar disponível para uso quando necessário. Quando o serviço da Netflix é derrubado por um software malicioso, ele deixa de estar disponível para os usuários, o que pode resultar em perda de receita, insatisfação dos clientes e danos à informação da empresa.
+
+Integridade: A integridade é outro princípio importante da TI que se refere à precisão e confiabilidade dos dados armazenados e processados ​​em um sistema. Quando um software malicioso invade o sistema da Netflix, ele pode modificar ou destruir dados críticos, o que pode resultar em erros na transmissão de conteúdo, dificuldades técnicas para os usuários e continuar no serviço.
+
+Questão 6:Cite um exemplo de cumprimento de cada princípio de Segurança da Informação. Disponibilidade, Integridade, Confidencialidade, Autenticidade.
+
+ 
+
+Disponibilidade: Garantir a disponibilidade dos dados significa que eles devem estar acessíveis sempre que necessário. Um exemplo disso é o backup regular dos dados em um seguro local, de forma a garantir que, em caso de falha do sistema ou perda de dados, as informações possam ser recuperadas rapidamente.
+
+Integridade: A integridade dos dados significa que eles não foram alterados ou alterados de forma não autorizada. Um exemplo de garantir a integridade dos dados é o uso de assinaturas digitais para verificar a segurança de documentos e mensagens eletrônicas.
+
+Confidencialidade: Garantir a confidencialidade dos dados significa que eles são autorizados em sigilo e só podem ser acessados ​​por pessoas autorizadas. Um exemplo disso é o uso de senhas fortes e criptografia para proteger dados sensíveis.
+
+Autenticidade: A segurança dos dados significa que sua origem e autoria são conhecidos e verificáveis. Um exemplo de garantia de segurança dos dados é o uso de certificados digitais para garantir a identidade do remetente em transações online.
+
+Questão 7:O que é um Sistema Operacional?
+
+Quais são os três objetivos principais?
+
+defina-os.
+
+O que são Periféricos e componentes?
+
+Cite 5 funcionalidades de um Sistema
+
+Operacional
+
+O que é e para que serve o Kernel de um
+
+Sistema Operacional?
+
+ 
+
+Um sistema operacional é um software que gerencia os recursos de hardware e software de um computador ou dispositivo eletrônico. Ele fornece uma interface entre os usuários e o hardware, permitindo que os usuários executem programas e realizem tarefas em seus dispositivos.
+
+ 
+
+Os três objetivos principais de um sistema operacional são:
+
+Gerenciamento de recursos: O sistema operacional gerencia os recursos de hardware, como cobertura, memória, dispositivos de armazenamento e entrada/saída, para garantir que cada processo e programa tenha acesso aos recursos necessários para executar suas tarefas.
+
+Facilitar a execução de programas: O sistema operacional fornece uma interface que permite que os usuários executem programas e realizem tarefas em seus dispositivos. Ele também gerencia os programas prolongados entre o hardware, garantindo que os programas possam ser executados de maneira eficiente.
+
+Garanta a segurança: O sistema operacional protege os recursos e dados do usuário, garantindo que apenas usuários autorizados possam acessá-los. Ele também controla o acesso aos recursos e arquivos do sistema, garantindo que programas maliciosos ou usuários mal-intencionados não possam comprometer a segurança do sistema.
+
+Periféricos: são dispositivos externos ao computador que se conectam a ele para realizar funções específicas, como mouse, teclado, impressora, monitor, entre outros. Já os componentes são partes internas do computador, como processador, memória RAM, placa-mãe, disco rígido, entre outros.
+
+Cinco funcionalidades de um Sistema Operacional são:
+
+Gerenciamento de recursos: O sistema operacional gerencia o uso de recursos do computador, como memória RAM, processador e espaço em disco, para garantir que cada aplicativo tenha o que precisa para funcionar corretamente.
+
+Interface com o usuário: O sistema operacional fornece uma interface que permite aos usuários interagir com o computador, como a área de trabalho, menu Iniciar e gerenciador de arquivos.
+
+Gerenciamento de arquivos: O sistema operacional gerencia o armazenamento e recuperação de arquivos no computador, permitindo que os usuários criem, salvem, movam e excluam arquivos.
+
+Gerenciamento de redes: O sistema operacional permite que o computador se conecte a redes, como a internet, e gerencie a comunicação entre dispositivos na rede.
+
+Segurança: O sistema operacional implementa medidas de segurança para proteger o computador e os dados dos usuários, como senhas de usuário
+
+Questão 8:Linux
+
+Na área de trabalho, crie um diretório com seu nome, dentro do diretório deverá conter outros 3 diretórios com os nomes(Principal, Copiar, Mover), dentro do diretório principal crie 3 arquivos, onde, o primeiro não tem nada é apenas um arquivo vazio, o segundo quando criado já terá o texto “com informação” no ultimo será um arquivo de sua preferencia(.txt) pode ou não ter texto dentro. Quais os comandos utilizados para realizar essas tarefas, listar todos eles em ordem. 
